@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"890244000000000009",
+		"product_id":"9105385871708284390",
+		"client_id":"243972704246432960",
+		"client_secret":"2BC02AF93DBB042654F9A508C5CD50AB53DCD6F954BE87C639BAFBE302E9BC34",
+		"app_id":"101447177",
+		"package_name":"com.appgallery.testapp100"
+	},
+	"configuration_version":"1.0"
+}
