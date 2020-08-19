@@ -1,12 +1,12 @@
-# Huawei HMS SDK / AppConnect Test App
+# Huawei HMS SDK / AppGalleryConnect Test App
 
-> Test app for FCM / HCM and stuff from Huawei App Gallery
+> Reference / test app for integrating push notification via Firebase Cloud Messaging and/or Huawei Push Kit
 
 ## Prerequisites
 
-[Make sure to have Android Studio](https://developer.android.com/studio/preview/)
-[Make sure you have an approved account in Huawei AppGallery](https://developer.huawei.com/consumer/en/console/)
-[Firebase Account / Project for your app](https://console.firebase.google.com/)
+* [Make sure to have Android Studio](https://developer.android.com/studio/preview/)
+* [Make sure you have an approved account in Huawei AppGallery](https://developer.huawei.com/consumer/en/console/)
+* [Firebase Account / Project for your app](https://console.firebase.google.com/)
 
 ## Update
 * Huawei SDK Libraries no longer work in devices that have GooglePlayServices. Most likely, you will receive a 907135003 code error.
@@ -18,8 +18,8 @@
 * If you want to test on Huawei Devices without GooglePlayServices, you can head over to [Cloud Debug](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-clouddebug-introduction) if you have an AppGallery account.
 
 ## References
-[Huawei Developer Documentation](https://developer.huawei.com/consumer/en/doc/development)
-[Fastlane CI/CD for Huawei AppGallery Deployment](https://github.com/shr3jn/fastlane-plugin-huawei_appgallery_connect)
+* [Huawei Developer Documentation](https://developer.huawei.com/consumer/en/doc/development)
+* [Fastlane CI/CD for Huawei AppGallery Deployment](https://github.com/shr3jn/fastlane-plugin-huawei_appgallery_connect)
 
 
 ### Author:
