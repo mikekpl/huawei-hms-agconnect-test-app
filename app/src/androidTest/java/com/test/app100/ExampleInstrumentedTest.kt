@@ -1,4 +1,4 @@
-package com.appgallery.testapp100
+package com.test.app100
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

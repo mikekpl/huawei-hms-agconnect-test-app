@@ -1,4 +1,4 @@
-package com.appgallery.testapp100
+package com.test.app100
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

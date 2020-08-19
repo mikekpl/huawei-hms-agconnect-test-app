@@ -1,4 +1,4 @@
-package com.appgallery.testapp100
+package com.test.app100
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

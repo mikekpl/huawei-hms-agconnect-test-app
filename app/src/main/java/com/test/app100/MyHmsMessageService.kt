@@ -1,4 +1,4 @@
-package com.appgallery.testapp100
+package com.test.app100
 
 import android.util.Log
 import com.huawei.hms.push.HmsMessageService
